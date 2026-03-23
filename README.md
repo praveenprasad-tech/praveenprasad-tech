@@ -33,7 +33,7 @@
 ### 🏆 Achievements
 - 🥇 LeetCode Contest Rating: 1678
 - ⭐ CodeChef: 2 Star
-- ⭐ HackerRank: 4 Star in C++ & SQL
+- ⭐ HackerRank: 4 Star in java & SQL
 
 ---
 
